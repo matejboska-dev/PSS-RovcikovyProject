@@ -1,4 +1,0 @@
-test_uzivatel
-test123
-
-prihlasovaci link - http://www.mcpermonicek.cz/admin/ 
